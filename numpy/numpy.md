@@ -37,3 +37,9 @@
 - **arange :** it arranges the number based on the range.
 
 ![alt text](Images/numpy_Arrange.png)
+
+- **modify the array:** modify the array using arr[3] = 5,arr[1:3] = [1,2,3]
+
+- **convert an array:** we can convert the array to another data type using astype function.
+
+![alt text](Images/numpy_datatypeConversion.png)

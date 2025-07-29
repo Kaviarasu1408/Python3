@@ -1,9 +1,9 @@
 ## 1. Pandas
 
-    - worrks with tabular data
-    - Handles CSV, Excel, JSON.
-    - Allows Filtering, cleaning and transforming..
-    - import pandas as pd
+- worrks with tabular data
+- Handles CSV, Excel, JSON.
+- Allows Filtering, cleaning and transforming..
+- import pandas as pd
 
 ## 2. Commands
 

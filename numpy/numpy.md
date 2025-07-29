@@ -67,3 +67,22 @@
 - **Indexing and Slicing:**
 
     ![alt text](Images/Slicing.png)
+
+- **L2 Norm(Eucliden Norm)**
+
+    ![alt text](Images/L2Norm.png)
+
+- **L1 Norm(Manhattan Norm)**
+
+    ![alt text](Images/L1Norm.png)
+
+- **Vecor Distance**
+    ![alt text](Images/numpy_Vector.png)
+
+- **EigenValues & EigenVectors** :
+
+    ![alt text](Images/eigenVal.png)
+
+- **Singular Value Decomposition** : 
+
+    ![alt text](Images/numpy_svd.png)

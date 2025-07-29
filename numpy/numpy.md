@@ -13,22 +13,22 @@
 
 ## 1. Numpy Attribute.
 
-- **Shape:** it returns the dimensions. 
+- **Shape :** it returns the dimensions. 
 
     ![alt text](Images/numpy_shape.png)
 
-- **Size:** it returns the size of the array
+- **Size :** it returns the size of the array
 
     ![alt text](Images/numpy_size.png)
 
 - **Ndim :** it returns the array dimensions whether it is one or two dimensions.
 
-- **Dtype:** it returns the datatype of the array.It supports various data types like Integer,float, complex.while creating we can specify.
+- **Dtype :** it returns the datatype of the array.It supports various data types like Integer,float, complex.while creating we can specify.
 
     ![alt text](Images/numpy_dtype.png)
     ![alt text](Images/numpy_dtype1.png)
 
-- **Tuple to array:** conversion of tuple to array.
+- **Tuple to array :** conversion of tuple to array.
 
     ![alt text](Images/numpy_tuple.png)
 
@@ -38,8 +38,32 @@
 
     ![alt text](Images/numpy_Arrange.png)
 
-- **Modify the array:** modify the array using arr[3] = 5,arr[1:3] = [1,2,3]
+- **Modify the array :** modify the array using arr[3] = 5,arr[1:3] = [1,2,3]
 
-- **Convert an array:** we can convert the array to another data type using astype function.
+- **Convert an array :** we can convert the array to another data type using astype function.
 
     ![alt text](Images/numpy_datatypeConversion.png)
+
+- **Math Operation :** we can perform math operation like add,sub,multiply and divide.
+
+    ![alt text](Images/numpy_math.png)
+
+- **Matrix Multiplication :** 
+
+    ![alt text](Images/numpy_matrixMult.png)
+
+- **Transpose :**
+
+    ![alt text](Images/numpy_transpose.png)
+
+- **Filtering :**
+
+    ![alt text](Images/numpy_filtering.png)
+
+- **reshaping array :**
+
+    ![alt text](Images/numpy_reshaping.png)
+
+- **Indexing and Slicing:**
+
+    ![alt text](Images/Slicing.png)

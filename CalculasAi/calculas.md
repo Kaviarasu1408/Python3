@@ -1,20 +1,24 @@
 ## 1. Calculas
 
-- using calculas we can check small changes in the input(weight) affect the output(error/loss).
+- start with random weight(if the weight is low, we don't have confidence in this model,if it is high we can have)
+- Model gets the input
+- Makes a prediction
+- And also calculate the loss(Loss tell how wrong the model is based on the weight).
 
-## Key Concepts
+- **Derivatives** : Using Derivatives we can changes the weight to reduce the loss or reduce the error.
 
-Model predicates
+- **Gradients** : Gradients will tell which direction you need to go to reduce the loss quickly(faster).
 
-- **Derivatives** : Derivatives will tell the loss and we changes the direction to reduce the loss.
+- **Gradients Descent** : Using gradients deccent, we can keep on changing the weights until the loss is small.
 
-- **Gradients** : How to move when we have multiple inputs.
+- **Chain Rule** : chain rule will he;p us to calculate how a small change in one input  affects the final output,through multiple layers.
 
-- **Gradients Descent** : Try, check the errors and repeat untill the loss is small.
+- **Parital Derivatives** : It measures how change in one variables and affect the result.
 
-- **Chain Rule** : chain rule will tell us how a change in one input affects the final output.It chains through multiple chains between
-
-- **Parital Derivatives** : change in one variables and tell how the output changes.
-
-- **Backpropagation** : After every loss check for the errors..analyse and learn from the errors.After each round the loss will be closers..It works in the backwards..
+- **Backpropagation** :
+    - First it makes prediction.
+    - Then it see how wrong the model was(error/loss).what is the loss
+    - Then it goes backward wiith the help of chain rule and calculate how each layer contributed to the error.
+    -  update the weight and repeat
+    - Learn from the mistakes.
 

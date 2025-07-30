@@ -13,6 +13,6 @@
 - first predicte the results.
 - Calculate the loss.
 - Calculate the gradient(which means how much loss and the direction)
-- update the weight.
+- update the weight, we move in the direction that reduces the loss using gradient.
 
 ![alt text](Images/example1.png)

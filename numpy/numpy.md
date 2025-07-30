@@ -68,6 +68,8 @@
 
     ![alt text](Images/Slicing.png)
 
+## 2. Linear Alebra
+
 - **L2 Norm(Eucliden Norm)**
 
     ![alt text](Images/L2Norm.png)
@@ -83,6 +85,6 @@
 
     ![alt text](Images/eigenVal.png)
 
-- **Singular Value Decomposition** : 
+- **Singular Value Decomposition** : Using SVD we can break the matrix into 3 pieces.
 
     ![alt text](Images/numpy_svd.png)

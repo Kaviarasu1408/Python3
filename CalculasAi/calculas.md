@@ -44,7 +44,6 @@
 -  update the weight and repeat
 - Learn from the mistakes.
 
-
 ## 7. Activation
 
 - using relu, we can check for the positive value.If it is there it will return orelse if it is negative we return 0

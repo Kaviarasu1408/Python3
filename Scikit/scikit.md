@@ -22,7 +22,7 @@
 - Used to split the data into training and testing.
 - 80% of the data is used for training and 20% is used for testing.
     
-    ![alt text](Images/trainTest.pngs)
+    ![alt text](Images/trainTest.png)
 
 ## 4. Build Model 
 

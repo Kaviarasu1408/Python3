@@ -20,7 +20,7 @@ List = [3,7,7,2,9]
 - **Independent Events :** Two events are independent if the outcome doesn't affet the outcome of others.
 - **Dependent Events :** Two events are dependent if the outcome  affet the outcome of others.
 
-## 3. Random Variables
+## 3. Probability Distribution
 
 - It helps with different outcome.
 - **Discrete Distributions** : countable outcomes.

@@ -48,7 +48,7 @@
 
     ![alt text](Images/numpy_math.png)
 
-- **Matrix Multiplication :** 
+- **Matrix Multiplication :** Multiplying two vectors.
 
     ![alt text](Images/numpy_matrixMult.png)
 
@@ -79,12 +79,13 @@
     ![alt text](Images/L1Norm.png)
 
 - **Vecor Distance**
+
     ![alt text](Images/numpy_Vector.png)
 
 - **EigenValues & EigenVectors** :
 
     ![alt text](Images/eigenVal.png)
 
-- **Singular Value Decomposition** : Using SVD we can break the matrix into 3 pieces.
+- **Singular Value Decomposition** : Using SVD we can break the matrix into 3 pieces and we can reconstruct.
 
     ![alt text](Images/numpy_svd.png)

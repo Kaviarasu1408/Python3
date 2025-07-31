@@ -83,6 +83,8 @@
     ![alt text](Images/numpy_Vector.png)
 
 - **EigenValues & EigenVectors** :
+- Eigen vector like a direcion..that doesn't change.
+- Eigen values are like how much it is strches or shrik.
 
     ![alt text](Images/eigenVal.png)
 

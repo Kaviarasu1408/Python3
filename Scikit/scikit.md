@@ -37,5 +37,6 @@
 - The model predicates the flower type for the test set.
 - compares actual answer(y_test) with predicted ones(y_pred)
 - return numbers like 0.96 which is 96% accurate.
+- Classification reports provides  precision, recall and f1-score.
 
 ![alt text](Images/evaluate.png)

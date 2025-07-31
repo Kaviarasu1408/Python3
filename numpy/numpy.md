@@ -90,7 +90,8 @@
 
     ![alt text](Images/numpy_svd.png)
 
-- **Loss function**: Loss function is used to check how wrong our model is.Types of Loss functions
+- **Loss function**: Loss function is used to check how wrong our model is.Types of Loss functions.
+
 - Mean Squared Error: common for predicting numbers.
 - Mean Absolute Error: treat everything equally
 - Binaray cross entropy: Yes/No and spam/Not spam

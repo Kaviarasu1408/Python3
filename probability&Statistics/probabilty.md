@@ -2,12 +2,15 @@
 
 List = [3,7,7,2,9]
 
-- Mean is a average value which sum/count: 28/5 = 5.6
-- Median: Middle Number = 7.
-- Mode: Most frequent value = 7.
-- Range: Max=9, Min =2., Max - Min = 9-2 = 7.
-- Variance: subtract the mean from each number, then square the result.
-- Standard deviation: square root of variance.
+- **Mean :** is a average value which sum/count 28/5 = 5.6
+- **Median :** Middle Number = 7.
+- **Mode :** Most frequent value = 7.
+- **Range :** Max=9, Min =2., Max - Min = 9-2 = 7.
+- **Variance :** subtract the mean from each number, then square the result.
+- **Standard deviation:** square root of variance.
+- **Quartiles :** Divide your data into 4 equal parts.
+- **Percentiles :** Divide the data into 100 equal parts. 
+- **Skeweness :** It tells how symmetric our data is.Skewness= 0 [perfect symmetrical], Positive Skew[Tail longer right side], Negative Skew[Tail longer left side].E.g data = [1,2,3,4,5,10] - Right Skew - one big value at the end
 
     ![alt text](Images/statistics.png)
 
@@ -24,22 +27,16 @@ List = [3,7,7,2,9]
 - **Continuous Distributions** : inifinte outcomes.
 
 
-## 4. Expectations, Variance, SD.
-
-- Expectations
-- Variance
-- Standard deviation
-
-## 5. Probabilty Distribution
+## 4. Probabilty Distribution
 
 - Binomial, Poission
 - Uniform, Normal, Exponentail.
 
-## 6. Central Limit Theorem
+## 5. Central Limit Theorem
 
-- Sample means of any population will tend toward a normal distribution as a sample size increase.
+- From the population we will take few samples we can calculate the the mean..repeat the process.And now have records of mean..plot it on the histogram..it looks like bell shaped.
 
-## 7. Bayes Theorem
+## 6. Bayes Theorem
 
 - It help us to update the probabilty after we get the new information.
 - Let say 20% email are spam: p(spam) = 0.2
@@ -50,7 +47,7 @@ List = [3,7,7,2,9]
 
     ![alt text](Images/bayesTheorem.png)
 
-## 8. Hypothesis Testing.
+## 7. Hypothesis Testing.
 
 - **Null Hypothesis :** Null Hypothesis is like there is no change or difference.E.g Math App does not improve the student test scores.
 - **Alternative Hypothesis :** Alternative Hypothesis is like there is change and difference.E.g Math does improve the student test scores.
@@ -66,7 +63,7 @@ List = [3,7,7,2,9]
 - **Confidence Interval :** Confidence Interval is like it gives the percentage. for eg: suppose the average height of 100 men is 170 cm. A 95% Confidence interval says.
 
 
-## 9. Coorelation and Covariance
+## 8. Coorelation and Covariance
 
 - These helps us to understand the realtionship between variables.
 - **Covariance** : Covariance tells us how two variables vary together.

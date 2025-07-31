@@ -1,6 +1,15 @@
 ## 1. Descriptive Statistics
 
-- Mean, Median and Mode.
+List = [3,7,7,2,9]
+
+- Mean is a average value which sum/count: 28/5 = 5.6
+- Median: Middle Number = 7.
+- Mode: Most frequent value = 7.
+- Range: Max=9, Min =2., Max - Min = 9-2 = 7.
+- Variance: subtract the mean from each number, then square the result.
+- Standard deviation: square root of variance.
+
+    ![alt text](Images/statistics.png)
 
 ## 2. Probability Theory
 
@@ -36,8 +45,19 @@
 
 ## 8. Hypothesis Testing.
 
-- Null or Alternative Hypothesis.
-- p-value, confidence intervals, z-test, t-test.
+- **Null Hypothesis :** Null Hypothesis is like there is no change or difference.E.g Math App does not improve the student test scores.
+- **Alternative Hypothesis :** Alternative Hypothesis is like there is change and difference.E.g Math does improve the student test scores.
+- **p-value :** If the p-value lesser than 0.05 we reject the null hypothesis(H0) and the app has some effect. if the p value is greater than 0.05 fail to reject H0.E.g H0 app has no effect and app has some effect
+- **Z-Test :** When the standard deviation is known, sample size is greater than 30.
+
+    ![alt text](Images/ztest.png)
+
+- **T-Test :** when the standard deviation is not known, sample size is lesser than 30.
+
+    ![alt text](Images/t-test.png)
+    
+- **Confidence Interval :** Confidence Interval is like it gives the percentage. for eg: suppose the average height of 100 men is 170 cm. A 95% Confidence interval says.
+
 
 ## 9. Coorelation and Covariance
 

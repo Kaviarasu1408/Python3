@@ -22,10 +22,13 @@ List = [3,7,7,2,9]
 
 ## 3. Probability Distribution
 
-- It helps with different outcome.
-- **Discrete Distributions** : countable outcomes.
-- **Continuous Distributions** : inifinte outcomes.
+- Gaussian(Normal) Distribution: It looks like a bell curve.
+- Mean is the center of the curve and standard deviation is how wide the curve.
+- Norm allow us to create a normal distribution, get probabilities and generate random number.
+- Here mean is 0 because the curve is centered at 0, std_Dev=1 which means how wide the curve is.
+- pdf means probabilty density function and set PDF value x=1
 
+![alt text](Images/normalDistribution.png)
 
 ## 4. Probabilty Distribution
 

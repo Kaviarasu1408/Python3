@@ -41,7 +41,14 @@ List = [3,7,7,2,9]
 
 ## 7. Bayes Theorem
 
-- It help us to reverse the possibilites after seeing the evidence..
+- It help us to update the probabilty after we get the new information.
+- Let say 20% email are spam: p(spam) = 0.2
+- 80% email are not spam: p(No spam) = 0.8
+- The word free appears in 60 % of spam email: p(free | span)= 0.6
+- The word free appears in 5 % of non spam email: p(free | not span) = 0.05
+- Question : you are recieve an email contains word free.what is the probability that email is span.
+
+    ![alt text](Images/bayesTheorem.png)
 
 ## 8. Hypothesis Testing.
 
@@ -55,7 +62,7 @@ List = [3,7,7,2,9]
 - **T-Test :** when the standard deviation is not known, sample size is lesser than 30.
 
     ![alt text](Images/t-test.png)
-    
+
 - **Confidence Interval :** Confidence Interval is like it gives the percentage. for eg: suppose the average height of 100 men is 170 cm. A 95% Confidence interval says.
 
 

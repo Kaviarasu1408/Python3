@@ -6,17 +6,19 @@
 
 
 ## 1. Shape
-- It returns the dimensions. 
+- It returns the dimensions whether it is (5,) or (2,3).
 
     ![alt text](Images/numpy_shape.png)
 
 ## 2. Size
-- It returns the size of the array
+- It returns the size of the array like how many values inside an array or matrix.
 
     ![alt text](Images/numpy_size.png)
 
 ## 3. Ndim
 - It returns the array dimensions whether it is one or two dimensions.
+
+    ![alt text](Images/oneDtowD.png)
 
 ## 4. Dtype
 - It returns the datatype of the array.It supports various data types like Integer,float, complex.while creating we can specify.

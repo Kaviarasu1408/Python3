@@ -38,12 +38,14 @@
     ![alt text](Images/zeroOnes.png)
 
 ## 7. Arange
-- It arranges the number based on the range.
+- It arranges the number based on the range.we can get the even or odd numbers from the certain range with 0 and 1 in reminder.
 
     ![alt text](Images/numpy_Arrange.png)
 
 ## 8. Modify the array
-- Modify the array using arr[3] = 5,arr[1:3] = [1,2,3]
+- Modify the array pr matrix using the index, arr[3] = 5,arr[1:3] = [1,2,3]
+
+    ![alt text](Images/modifyArr.png)
 
 ## 9. Convert an array 
 - We can convert the array to another data type using astype function.

@@ -35,6 +35,8 @@
 ## 6. Zeros and Ones
 - Print the zeros and ones based on the input.
 
+    ![alt text](Images/zeroOnes.png)
+
 ## 7. Arange
 - It arranges the number based on the range.
 

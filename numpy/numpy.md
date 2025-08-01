@@ -22,6 +22,7 @@
 
 ## 4. Dtype
 - It returns the datatype of the array.It supports various data types like Integer,float, complex.while creating we can specify.
+- While we creating we can convert float array to int array using dtype.
 
     ![alt text](Images/numpy_dtype.png)
     ![alt text](Images/numpy_dtype1.png)

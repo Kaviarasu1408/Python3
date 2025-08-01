@@ -31,6 +31,7 @@
 
 - Chain rule will help us to calculate how a small change in one input  affects the final output,
 - one function depends on others..chaining multiple layers.
+- Input Layer > Hidden Layer > Output.(Data goes from input through hidden layer to the output)
 
 ## 5. Parital Derivatives
 
@@ -46,10 +47,18 @@
 - update the weight and repeat
 - Learn from the mistakes.
 
+## 7. Bias 
+
+- Bias helps the model to make prediction when the input is zero.
+- Imagine we are predicitng a house price prediction, equation : ouput = w * x
+- If x input is 0, prediction is 0.
+- With bias we can add a fix base value for the house, equation: w * x + b
+- if input is 0, b=10000(fixed value we are setting).
+
 ## 7. Activation
 
 - using relu, we can check for the positive value.If it is there it will return orelse if it is negative we return 0
 
 ## 8. Hidden Layer
 
-- Input Layer > Hidden Layer > Output.(Data goes from input through hidden layer to the output)
+- 

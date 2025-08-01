@@ -43,9 +43,14 @@
 
 - First it makes prediction.
 - Then it see how wrong the model was(error/loss) and see what is the loss
-- Then it goes backward wiith the help of chain rule and calculate how each layer contributed to the error.
-- update the weight and repeat
+- Then it goes backward with the help of chain rule and calculate how each layer contributed to the error.
+- And it adjusts the weight  to reduce the error and try to predicte it again.
 - Learn from the mistakes.
+
+**Forward Pass :** Input goes through the network - get the output.
+**Calculate Error :** Calculate the Loss.
+**Backward Pass :** Calculate how each contributed to the loss and adjust the weight again.
+
 
 ## 7. Bias 
 

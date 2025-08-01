@@ -58,7 +58,7 @@
     ![alt text](Images/numpy_math.png)
 
 ## 11. Matrix Multiplication
-- Multiplying two vectors.
+- Multiplying two vectors or matrix using dot function.
 
     ![alt text](Images/numpy_matrixMult.png)
 
@@ -68,12 +68,12 @@
     ![alt text](Images/numpy_transpose.png)
 
 ## 13. Filtering
-- Filtering the array.
+- Filtering the array or matrix.
 
     ![alt text](Images/numpy_filtering.png)
 
 ## 14. Reshaping array
-- Reshaping the array.
+- Reshaping the array or matrix.
 
     ![alt text](Images/numpy_reshaping.png)
 

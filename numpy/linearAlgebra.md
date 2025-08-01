@@ -1,10 +1,16 @@
-## 2. Linear Alebra
+## Linear Algebra
 
-- **L2 Norm(Eucliden Norm)**
+## 1. L2 Norm(Eucliden Norm)
+- L2 Norm is the shortest distance from A to B.
+- you can cut diagonally[Shortest distance].
+- sqr(3)+sqr(4) = sqr(9+16) = 5.
 
     ![alt text](Images/L2Norm.png)
 
-- **L1 Norm(Manhattan Norm)**
+## 2. L1 Norm(Manhattan Norm)
+- L1 is the you need to walk along the street to reach from A to B[horizontal + vertical].
+- You cannot cut diagonally.
+- sum of the absolute values.
 
     ![alt text](Images/L1Norm.png)
 

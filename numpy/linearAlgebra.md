@@ -14,7 +14,8 @@
 
     ![alt text](Images/L1Norm.png)
 
-- **Distance Matrices** : Euclidean distance.
+## 3. Distance Matrices(Euclidean distance)
+- It calculates the distance betweeen two vectors.
 
     ![alt text](Images/numpy_Vector.png)
 

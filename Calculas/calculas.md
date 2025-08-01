@@ -32,7 +32,6 @@
 - Chain rule will help us to calculate how a small change in one input  affects the final output,
 - one function depends on others..chaining multiple layers.
 
-
 ## 5. Parital Derivatives
 
 - If we have multiple inputs e.g like x,y, we can one variable and we can measures how change in one variables and affect the result.

@@ -4,67 +4,83 @@
 
 ```
     import numpy as np
+
     one_d_arr = np.array([1,2,3,4])
     two_d_arr = np.array([[1,2,3],[4,5,6],[7,8,9]])
+
     print(one_d_arr)
     print(two_d_arr)
 
 ```
 
-## 1. Numpy Attribute.
 
-- **Shape :** it returns the dimensions. 
+## 1. Shape
+- It returns the dimensions. 
 
     ![alt text](Images/numpy_shape.png)
 
-- **Size :** it returns the size of the array
+## 2. Size
+- It returns the size of the array
 
     ![alt text](Images/numpy_size.png)
 
-- **Ndim :** it returns the array dimensions whether it is one or two dimensions.
+## 3. Ndim
+- It returns the array dimensions whether it is one or two dimensions.
 
-- **Dtype :** it returns the datatype of the array.It supports various data types like Integer,float, complex.while creating we can specify.
+## 4. Dtype
+- It returns the datatype of the array.It supports various data types like Integer,float, complex.while creating we can specify.
 
     ![alt text](Images/numpy_dtype.png)
     ![alt text](Images/numpy_dtype1.png)
 
-- **Tuple to array :** conversion of tuple to array.
+## 5. Tuple to array
+- Conversion of tuple to array.
 
     ![alt text](Images/numpy_tuple.png)
 
-- **Zeros and Ones :** print the zeros and ones based on the input.
+## 6. Zeros and Ones
+- Print the zeros and ones based on the input.
 
-- **Arange :** it arranges the number based on the range.
+## 7. Arange
+- It arranges the number based on the range.
 
     ![alt text](Images/numpy_Arrange.png)
 
-- **Modify the array :** modify the array using arr[3] = 5,arr[1:3] = [1,2,3]
+## 8. Modify the array
+- Modify the array using arr[3] = 5,arr[1:3] = [1,2,3]
 
-- **Convert an array :** we can convert the array to another data type using astype function.
+## 9. Convert an array 
+- We can convert the array to another data type using astype function.
 
     ![alt text](Images/numpy_datatypeConversion.png)
 
-- **Math Operation :** we can perform math operation like add,sub,multiply and divide.
+## 10. Math Operation
+- We can perform math operation like add,sub,multiply and divide.
 
     ![alt text](Images/numpy_math.png)
 
-- **Matrix Multiplication :** Multiplying two vectors.
+## 11. Matrix Multiplication
+- Multiplying two vectors.
 
     ![alt text](Images/numpy_matrixMult.png)
 
-- **Transpose :**
+## 12. Transpose
+- Transpose an vector.
 
     ![alt text](Images/numpy_transpose.png)
 
-- **Filtering :**
+## 13. Filtering
+- Filtering the array.
 
     ![alt text](Images/numpy_filtering.png)
 
-- **reshaping array :**
+## 14. Reshaping array
+- Reshaping the array.
 
     ![alt text](Images/numpy_reshaping.png)
 
-- **Indexing and Slicing:**
+## 15. Indexing and Slicing
+- Indexing and slicing the array.
 
     ![alt text](Images/Slicing.png)
 
